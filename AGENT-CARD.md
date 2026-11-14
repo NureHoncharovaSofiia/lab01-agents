@@ -7,7 +7,7 @@
 - Дата: 13.11.2026
 - Авторка: Гончарова Софія Романівна, група ПЗПІиз-23-01, e-mail sofiia.honcharova@nure.ua
 - Ліцензія: MIT (зазначити в LICENSE під час підготовки репозиторію).
-- Посилання на архів: додати після завантаження ZIP на Google Диск.
+- Посилання на архів: https://drive.google.com/file/d/1boGmeOHs3VJeligAsVgphnLyK7hq9l6J/view?usp=sharing.
 
 ## 2. Призначення
 
