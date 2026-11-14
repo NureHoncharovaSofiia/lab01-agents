@@ -1,0 +1,29 @@
+{
+  "goal": "Перевір обробку невідомої дії",
+  "observations": [
+    "ERROR: Невідома дія: 'unknown'."
+  ],
+  "trace": [
+    {
+      "step": 1,
+      "decision": {
+        "action": "unknown"
+      },
+      "observation": "ERROR: Невідома дія: 'unknown'."
+    },
+    {
+      "step": 2,
+      "decision": {
+        "action": "finish",
+        "arguments": {
+          "answer": "Невідому дію відхилено."
+        },
+        "decision_summary": "Завершуємо після помилки."
+      },
+      "observation": null
+    }
+  ],
+  "step": 2,
+  "final_answer": "Невідому дію відхилено.",
+  "stop_reason": "finish"
+}
